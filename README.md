@@ -1,4 +1,4 @@
-##Aggie-Hackathon
+Aggie-Hackathon
 
 **Place Categories**
 
