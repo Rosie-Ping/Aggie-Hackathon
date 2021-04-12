@@ -1,6 +1,7 @@
 ##Aggie-Hackathon
 
 **Place Categories**
+
 Grocery & pharmacy
 Mobility trends for places like grocery markets, food warehouses, farmers markets, specialty food shops, drug stores, and pharmacies.
 
@@ -20,6 +21,7 @@ Workplaces
 Mobility trends for places of work.
 
 **About this data**
+
 These datasets show how visits and length of stay at different places change compared to a baseline. We calculate these changes using the same kind of aggregated and anonymized data used to show popular times for places in Google Maps.
 
 Changes for each day are compared to a baseline value for that day of the week:
